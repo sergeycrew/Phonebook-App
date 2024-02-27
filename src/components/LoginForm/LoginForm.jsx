@@ -62,9 +62,9 @@ function LoginForm() {
           <p className="px-3" style={{ color: 'hsl(217, 10%, 50.8%)' }}>
             Connected to Backend API.
             <br />
-            Simple tool to Register your Account, Log In and Log Out.
+            Add, Remove or Filter your Contacts. Fast and Secured.
             <br />
-            Add, Remove or Filter Contacts. Fast and Secured.
+            Simple tool to Register your Account, Log In and Log Out.
           </p>
         </MDBCol>
 

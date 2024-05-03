@@ -22,7 +22,7 @@ export const ContactList = () => {
 
   const visibleContacts = useContacts();
 
-  //console.log(visibleContacts);
+  console.log(visibleContacts);
 
   return (
     <PhonebookList>

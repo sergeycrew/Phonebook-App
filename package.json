@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-08-phonebook",
+  "name": "Phonebook-App",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sergeycrew.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://sergeycrew.github.io/Phonebook-App/",
   "dependencies": {
     "@chakra-ui/react": "^2.5.5",
     "@emotion/react": "^11.10.6",
